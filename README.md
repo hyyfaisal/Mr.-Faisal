@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mr. Faisal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="550" src="https://eportfolio.utm.my/artefact/file/download.php?file=682043&view=171850&embedded=1&text=691127">
+<img align="right" alt="coding" width="500" src="https://eportfolio.utm.my/artefact/file/download.php?file=682043&view=171850&embedded=1&text=691127">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyyfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="hyyfaisal" /> </p>
 
