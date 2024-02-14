@@ -1,4 +1,4 @@
-![logo] (github-header-image.png)
+![logo](https://github.com/hyyfaisal/Mr.-Faisal/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mr. Faisal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
